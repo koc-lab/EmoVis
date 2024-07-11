@@ -4,3 +4,6 @@ This is the GitHub repository for the paper: “ Emotion Classification with Vis
 
 #### Graph Generation ####
 For the implementation details of graph generation, refer to codes `graph_generation.py`. For the implementation details of data preprocessing, refer to codes `data_preprocessing.py`.
+
+#### Model and Training ####
+For the implementation details of the model used for training, refer to codes `model_train.py`
